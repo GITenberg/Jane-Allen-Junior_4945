@@ -1,0 +1,24 @@
+_repo: Jane-Allen-Junior_4945
+creator:
+  author:
+    agent_name: Bancroft, Edith
+    gutenberg_agent_id: '1602'
+    url: http://www.gutenberg.org/2009/agents/1602
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Women college students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Basketball stories'
+title: Jane Allen, Junior
+url: http://www.gutenberg.org/ebooks/4945
